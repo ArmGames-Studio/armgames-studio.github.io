@@ -1,0 +1,9 @@
+{
+  "_comment": "Read by Lumen at launch (Updates autoload). Raise ios.min_version only to force every older build to update; latest_version is informational. Versions are dotted integers.",
+  "updated": "2026-11-09",
+  "ios": {
+    "min_version": "1.0.2",
+    "latest_version": "1.0.2",
+    "store_url": "https://apps.apple.com/app/id6825489890"
+  }
+}
